@@ -1,7 +1,7 @@
 ---
 layout: collection
-title: "A design history for your GOV.UK service"
-description: "Document and share design decisions. Create a permanent record of how your service has developed over time."
+title: "A design history for the Content Hub"
+description: "A library of design history and decisions made by the Content Hub team at HMPPS."
 pagination:
   data: collections.all
   reverse: true
