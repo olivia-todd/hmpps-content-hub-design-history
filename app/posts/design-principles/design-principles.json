@@ -1,0 +1,6 @@
+{
+  "tags": ["design-principles"],
+  "eleventyNavigation": {
+    "parent": "Design principles"
+  }
+}
