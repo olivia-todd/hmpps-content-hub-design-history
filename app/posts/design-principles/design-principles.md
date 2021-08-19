@@ -15,8 +15,6 @@ eleventyComputed:
     parent: home
 ---
 
-<h1>Design principles</h1>
-
 <p>Design principles are the values that guide the design of our service. We’ll use these principles at every stage of the design process to make sure we’re moving in the right direction.</p>
 
 <h2 id="our-design-principles"><a class="header-anchor" href="#our-design-principles">#</a> Our design principles</h2>
