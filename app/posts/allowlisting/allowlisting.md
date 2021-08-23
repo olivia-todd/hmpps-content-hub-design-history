@@ -1,13 +1,13 @@
 ---
 tags: false
 layout: collection
-title: Live
+title: Allowlisting
 description: How we created prototypes to test our prioritised hypotheses.
 pagination:
-  data: collections.live
+  data: collections.allowlisting
   reverse: true
   size: 50
-permalink: "live/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}{% endif %}/"
+permalink: "allowlisting/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}{% endif %}/"
 eleventyComputed:
   eleventyNavigation:
     key: "{{ title }}"
@@ -15,7 +15,7 @@ eleventyComputed:
     parent: home
 ---
 
-<h2 id="live-overview"><a class="header-anchor" href="#live-overview">#</a> Live overview</h2>
+<h2 id="allowlisting-overview"><a class="header-anchor" href="#allowlisting-overview">#</a> Allowlisting overview</h2>
 
 <p>In alpha, we tested different tools and processes that staff can use to prepare and receive a person arriving at prison to:</p>
 
