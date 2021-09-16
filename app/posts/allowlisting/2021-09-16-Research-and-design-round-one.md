@@ -23,11 +23,11 @@ To answer these questions, our user researcher came up with 3 scenarios for test
 ### Homepage simplification ###
 We simplified the current design of our homepage to make the journeys easier for participants. We changed some links in our Popular topics navigation menu to reflect what our users had identified with most in a previous card sort session.
 
-We also changed Popular topics to Quick links. Currently, the links in our Popular topics navigation menu are hardcoded into the front-end by our developers. They do not automatically update based on popularity, so they are not always an accurate reflection of what is actually the most popular content. 
+We also changed **Popular topics** to **Quick links**. Currently, the links in our **Popular topics** navigation menu are hardcoded into the front-end by our developers. They do not automatically update based on popularity, so they are not always an accurate reflection of what is actually the most popular content. 
 
-Before and after: simplifying the homepage for testing.
+*Before and after: simplifying the homepage for testing.*
 
-We designed fake category landing pages for Learning and skills, Courses, and Music to aid our tasks.
+We designed fake category landing pages for **Learning and skills**, **Courses**, and **Music** to aid our tasks.
 
 The main concept we wanted to explore was how to tell users they’d be leaving the Hub to access an external website. 
 
@@ -56,7 +56,7 @@ How could we visually show which content wasn’t ours? We had a lightbulb momen
 
 1. We changed the background of the tag from purple to green.
 2. We introduced a new tick icon to reinforce that “it’s safe”.
-3. We changed the content to “SAFE SITE”. 
+3. We changed the content to “**SAFE SITE**”. 
 
 
 *Before and after: adapting the design of our existing tag component.*
@@ -106,7 +106,7 @@ We considered a modal or “pop up”, but we know these components tend to be u
 
 Although the pop-up idea would allow us to retain our own navigation and headers, we worried that if a user continued onto the allowlisted site they would not understand where the original Content Hub tab had gone. 
 
-So we decided to try a bespoke interstitial page. When a user clicked the content tile, a new tab would open with this new holding page in it. After clicking Continue, the allowlisted site would load in that same new tab. 
+So we decided to try a bespoke interstitial page. When a user clicked the content tile, a new tab would open with this new holding page in it. After clicking **Continue**, the allowlisted site would load in that same new tab. 
 
 We decided against a forced redirect. After a certain amount of time showing the interrupter content, we could automatically load the new external website. This would save users from having to take an additional step of clicking Continue. But, we worried that a time limit would be arbitrary and potentially even punishing to our users who might need longer to read and digest the information on this page.
 
