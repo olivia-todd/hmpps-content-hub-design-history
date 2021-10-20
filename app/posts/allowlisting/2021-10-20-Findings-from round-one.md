@@ -72,3 +72,7 @@ We took this finding and shared it with the wider gov design community on GitHub
 In the meantime, we plan to change the style of the component for the next round of testing. We will test the blue link style to see if this makes the breadcrumbs component appear more clickable compared to our previous design, and we will share any findings back into the Design System.
 
 *Before and after: updated design for the breadcrumbs component to test in round 2.*
+
+
+---
+You can learn more about the purpose of a design history on the [DfE Digital blog](https://dfedigital.blog.gov.uk/2020/09/01/design-history/).
