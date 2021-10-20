@@ -1,7 +1,7 @@
 ---
 title: Research and round 1 testing
 description: Our research questions, designs and testing for the first round of research in HMP Lindholme. 
-date: 2021-16-09
+date: 2021-09-16
 ---
 
 ## Research questions 
@@ -140,3 +140,5 @@ We couldn’t decide whether to show this message for each new allowlisted site 
 As these designs were more to test the concept of allowlisting, and less about achieving the finished design from day 1, we decided to keep it simple initially and gather as much feedback as possible.
 
 
+---
+You can learn more about the purpose of a design history on the [DfE Digital blog](https://dfedigital.blog.gov.uk/2020/09/01/design-history/).

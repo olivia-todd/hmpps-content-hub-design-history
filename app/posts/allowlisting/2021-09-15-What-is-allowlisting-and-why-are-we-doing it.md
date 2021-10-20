@@ -1,7 +1,7 @@
 ---
 title: What is allowlisting and why are we doing it?
 description: Learn how about why the Content Hub is exploring allowlisting.
-date: 2021-16-09
+date: 2021-09-15
 ---
 
 ## When content demand outweighs supply
